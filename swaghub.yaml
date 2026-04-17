@@ -1,0 +1,39 @@
+  store:
+    name: "My Project Swag"
+    description: "Official merch for contributors and fans."
+    logo: "https://raw.githubusercontent.com/you/your-repo/main/logo.png"
+    primary_color: "#6366f1"
+
+  products:
+    - name: "Classic Tee"
+      type: t-shirt
+      description: "Soft unisex tee with the project logo."
+      markup: 25
+      colors: ["White", "Black", "Navy"]
+      sizes: ["S", "M", "L", "XL", "2XL"]
+      design:
+        front: "https://raw.githubusercontent.com/you/your-repo/main/assets/logo-print.png"
+
+    - name: "Sticker Pack"
+      type: sticker
+      description: "Vinyl die-cut sticker."
+      markup: 50
+      design:
+        front: "https://raw.githubusercontent.com/you/your-repo/main/assets/sticker.png"
+
+    - name: "Hoodie"
+      type: hoodie
+      description: "Heavyweight pullover hoodie."
+      markup: 20
+      colors: ["Black", "Grey"]
+      sizes: ["S", "M", "L", "XL"]
+      design:
+        front: "https://raw.githubusercontent.com/you/your-repo/main/assets/logo-print.png"
+
+  contributor_discounts:
+    - label: "Contributor"
+      min_contributions: 1
+      discount_percent: 10
+    - label: "Core Contributor"
+      min_contributions: 10
+      discount_percent: 20
