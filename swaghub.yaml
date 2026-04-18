@@ -28,7 +28,7 @@
       colors: ["Black", "Grey"]
       sizes: ["S", "M", "L", "XL"]
       design:
-        front: "images/FMU_bare.svg"
+        front: "images/FMU_bare.png"
 
   contributor_discounts:
     - label: "Contributor"
