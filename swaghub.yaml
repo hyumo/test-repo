@@ -24,7 +24,7 @@
     - name: "Hoodie"
       type: hoodie
       description: "Heavyweight pullover hoodie."
-      markup: 23
+      markup: 21
       colors: ["Black", "Grey"]
       sizes: ["S", "M", "L", "XL"]
       design:
