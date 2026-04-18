@@ -14,12 +14,12 @@
       design:
         front: "https://raw.githubusercontent.com/you/your-repo/main/assets/logo-print.png"
 
-    - name: "Sticker Pack"
-      type: sticker
-      description: "Vinyl die-cut sticker."
-      markup: 50
-      design:
-        front: "https://raw.githubusercontent.com/you/your-repo/main/assets/sticker.png"
+    # - name: "Sticker Pack"
+    #   type: sticker
+    #   description: "Vinyl die-cut sticker."
+    #   markup: 50
+    #   design:
+    #     front: "https://raw.githubusercontent.com/you/your-repo/main/assets/sticker.png"
 
     - name: "Hoodie"
       type: hoodie
