@@ -12,14 +12,14 @@
       colors: ["White", "Black", "Navy"]
       sizes: ["S", "M", "L", "XL", "2XL"]
       design:
-        front: "https://raw.githubusercontent.com/you/your-repo/main/assets/logo-print.png"
+        front: "images/profile.png"
 
     # - name: "Sticker Pack"
     #   type: sticker
     #   description: "Vinyl die-cut sticker."
     #   markup: 50
     #   design:
-    #     front: "https://raw.githubusercontent.com/you/your-repo/main/assets/sticker.png"
+    #     front: "images/sticker.png"
 
     - name: "Hoodie"
       type: hoodie
@@ -28,7 +28,7 @@
       colors: ["Black", "Grey"]
       sizes: ["S", "M", "L", "XL"]
       design:
-        front: "https://raw.githubusercontent.com/you/your-repo/main/assets/logo-print.png"
+        front: "images/profile.png"
 
   contributor_discounts:
     - label: "Contributor"
